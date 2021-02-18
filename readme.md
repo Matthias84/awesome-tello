@@ -66,7 +66,7 @@ There are libraries which implement this featureset in different languages and b
 ## Hardware
 
 * [telloArduino](https://github.com/akshayvernekar/telloArduino) - Control via ESP32
-* [m5-block-dji-tello-drone-control](https://www.hackster.io/gperrella/m5-block-dji-tello-drone-control-c2646f ESP32) M5Stack control with `#micropython`
+* [m5-block-dji-tello-drone-control](https://www.hackster.io/gperrella/m5-block-dji-tello-drone-control-c2646f) ESP32 M5Stack control with `#micropython`
 * [m5stickcUartUdpBridge](https://github.com/EiichiroIto/m5stickcUartUdpBridge) Control via micro:bit with radio-UART and `#micropython`
 * [raspberrypi-controlled-tello](https://github.com/erviveksoni/raspberrypi-controlled-tello )Control via RPI
 * [hack_GamesirT1d](https://github.com/Diallomm/hack_GamesirT1d) Read original drone gamepad controller
@@ -88,7 +88,7 @@ Applications which show integration and mashups using the Tello.
 * [Pose Recognition Tello](https://github.com/houdinisparks/pose_recognition_tello) - Control via human body poses
 * [Tello-openpose](https://github.com/geaxgx/tello-openpose)
 * [DJITelloOpticalControl](https://github.com/TamasSzepessy/DJITelloOpticalControl) - Autonomous flight via markers
-* [Autonomous Navigation via Deep ReinforcementLearning for Resource Constraint Edge Nodes using Transfer Learning](https://arxiv.org/pdf/1910.05547.pdf] - Autonomous flight trained by virtual 3D levels
+* [Autonomous Navigation via Deep Reinforcement Learning for Resource Constraint Edge Nodes using Transfer Learning](https://arxiv.org/pdf/1910.05547.pdf) - Autonomous flight trained by virtual 3D levels
 * [Alexa controlled drone](https://github.com/erviveksoni/alexa-controlled-drone) - Control via Alexa using a RPI gateway
 * [Yello](https://github.com/adriacabeza/Yello) - CV and ML using offboard Yolo v3
 * [Eye in the sky](https://github.com/sushansapaliga/Eye-In-The-Sky) - Face detection and follow-me
