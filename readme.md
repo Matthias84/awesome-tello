@@ -34,6 +34,7 @@ There are libraries which implement this featureset in different languages and b
 
 * [Tello-Python](https://github.com/dji-sdk/Tello-Python) Official SDK, `#Python2`
 * [TelloPy](https://github.com/hanyazou/TelloPy) - `#Python`
+    * [Fork](https://github.com/shortstheory/TelloPy/tree/F310/tellopy) - Logitech F310 gamepad support
 * https://github.com/SMerrony/tello
 * [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) - `#Python` swarm, mission pads, CV2
 * [EasyTello](https://github.com/Virodroid/easyTello) - `#Python`, unmaintained
