@@ -90,6 +90,7 @@ Applications which show integration and mashups using the Tello.
 * [Tello ROS ORBSLAM](https://github.com/tau-adl/Tello_ROS_ORBSLAM) - Global positioning
 * [Pose Recognition Tello](https://github.com/houdinisparks/pose_recognition_tello) - Control via human body poses
 * [Tello-openpose](https://github.com/geaxgx/tello-openpose)
+* [Hallo](https://github.com/GalBrandwine/HalloPy) - Hand gesture controlled
 * [DJITelloOpticalControl](https://github.com/TamasSzepessy/DJITelloOpticalControl) - Autonomous flight via markers
 * [Autonomous Navigation via Deep Reinforcement Learning for Resource Constraint Edge Nodes using Transfer Learning](https://arxiv.org/pdf/1910.05547.pdf) - Autonomous flight trained by virtual 3D levels
 * [Alexa controlled drone](https://github.com/erviveksoni/alexa-controlled-drone) - Control via Alexa using a RPI gateway
