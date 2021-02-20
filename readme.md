@@ -30,7 +30,9 @@ Tello features official interfaces to develop applications for control & video s
 * [SDK 1.3](https://terra-1-g.djicdn.com/2d4dce68897a46b19fc717f3576b7c6a/Tello%20%E7%BC%96%E7%A8%8B%E7%9B%B8%E5%85%B3/For%20Tello/Tello%20SDK%20Documentation%20EN_1.3_1122.pdf),
 * [SDK 2.0](https://dl-cdn.ryzerobotics.com/downloads/Tello/Tello%20SDK%202.0%20User%20Guide.pdf) - supports mission pads, wifi-client mode but only for Tello EDU
 
-There are libraries which implement this featureset in different languages and bindings to other frameworks.
+Undocumented details on the wifi protocoll are listed at [Tello Pilots Wiki - Protocol](https://tellopilots.com/wiki/protocol/).
+
+There are libraries which implement featuresets in different languages and bindings to other frameworks.
 
 * [Tello-Python](https://github.com/dji-sdk/Tello-Python) Official SDK, `#Python2`
 * [TelloPy](https://github.com/hanyazou/TelloPy) - `#Python`
