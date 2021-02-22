@@ -43,6 +43,7 @@ There are libraries which implement featuresets in different languages and bindi
 * [dji-ryze-tello](https://github.com/m6c7l/dji-ryze-tello) - `#Python`
 * [tello_edu.py](https://github.com/tariq86/tello_edu.py) - `#Python` swarms
 * [TelloPython](https://github.com/jaqxues/TelloPython) - `#Python` flip, reverse engenierd
+* [pytello](https://bitbucket.org/PingguSoft/pytello/src/master/) - `#Python`
 * [Tello-nodejs](https://github.com/jsolderitsch/tello-nodejs)
 * [TelloJS](https://github.com/kanekotic/tellojs)
 * [Tello_ROS](https://github.com/clydemcqueen/tello_ros) `#ROS` (Robot Operrating system)
@@ -50,6 +51,7 @@ There are libraries which implement featuresets in different languages and bindi
 * [Tello](https://github.com/vss2sn/tello) - `#C++`
     * [Tello](https://github.com/LucaRitz/tello) - `#C++`
 * [DJITello-Cpp](https://github.com/shalinirago/DJITello-Cpp) - `#C++`
+* [TelloLib](https://github.com/Kragrathea/TelloLib) - `#C#`, Apps for Android and CLI
 * [TelloAPI-SDK-2.0](https://github.com/marklauter/TelloAPI-SDK-2.0) - `#C#`
 * [TelloCommander](https://github.com/davewalker5/TelloCommander) - `#C#`
 * [RyzeTelloSDK](https://github.com/Eloncase/RyzeTelloSDK) - `#C#`
@@ -62,7 +64,9 @@ There are libraries which implement featuresets in different languages and bindi
 * [TelloKt](https://github.com/JakeJMattson/TelloKt) - `#Kotlin`
 * [DJI-Tello-Dart-Package](https://github.com/mateustoin/DJI-Tello-Dart-Package) - `#dart`
 * [TelloTS](https://github.com/siokas/tellots) - `#typescript`
+* [Tello-Processing](https://github.com/f41ardu/TelloProcessing) - `#processing`, SDK 1.3
 * [Tello-drone-matlab](https://ww2.mathworks.cn/hardware-support/tello-drone-matlab.html) - `#Matlab`
+* [Tello Ruby Gem](https://github.com/blacktm/tello) `#Ruby`
 * [Tello Rust package](https://docs.rs/tello/0.3.0/tello/) `#Rust`
 
 
