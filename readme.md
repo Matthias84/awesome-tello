@@ -35,7 +35,7 @@ Undocumented details on the wifi protocoll are listed at [Tello Pilots Wiki - Pr
 There are libraries which implement featuresets in different languages and bindings to other frameworks.
 
 * [Tello-Python](https://github.com/dji-sdk/Tello-Python) Official SDK, `#Python2`
-* [TelloPy](https://github.com/hanyazou/TelloPy) - `#Python`
+* [TelloPy](https://github.com/hanyazou/TelloPy) - `#Python`, unmaintained, SDK 1.3 and lowlevel, pretty pythonic with examples, only inline docs
     * [Fork](https://github.com/shortstheory/TelloPy/tree/F310/tellopy) - Logitech F310 gamepad support
 * https://github.com/SMerrony/tello
 * [DJITelloPy](https://github.com/damiafuentes/DJITelloPy) - `#Python` swarm, mission pads, CV2
