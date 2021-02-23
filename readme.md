@@ -19,6 +19,7 @@ Alternatives to official Android Tello apps
 
 Alternatives to official Android Tello Edu app or [Droneblocks](https://www.droneblocks.io/) to design batch or interactive automation for the drone.
 
+* [Scratch explained](https://hackaday.com/2018/05/22/scratch-your-itch-to-fly/) with the official extension
 * [Scratch3-tello](https://github.com/kebhr/scratch3-tello)
 * [Node-Red-Tello-Control](https://github.com/johnwalicki/Node-RED-Tello-Control)
 * [Node-Red-DroneViewer](https://github.com/johnwalicki/Node-RED-DroneViewer)
