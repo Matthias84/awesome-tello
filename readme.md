@@ -108,6 +108,7 @@ Applications which show integration and mashups using the Tello.
 * [CNN based dense monocular visual SLAM forindoor mapping and autonomous exploration](http://essay.utwente.nl/81420/1/__ad.utwente.nl_Org_BA_Bibliotheek_Documentfiles_Afstudeerverslagen_Nieuw_Master%20Thesis%20Anne%20Steenbeek.pdf) - Indoor mapping
 * [Object Detection using Ryze Tello Drone with Help of Mask-RCNN](https://www.researchgate.net/publication/340887697_Object_Detection_using_Ryze_Tello_Drone_with_Help_of_Mask-RCNN) - Object detection
 * [Tello-drone](https://github.com/yushulx/tello-drone) - Barcode scanner
+* [Autonomous Indoor Control and Mapping Sistem](https://github.com/juanmill4/Indoor-Autonomous-Tello) - This project provides an system for autonomous navigation and mapping, leveraging various technologies like ARUCO markers, Webots simulation, and deep learning object detection through Yolov5 + [API Tello Webots](https://github.com/juanmill4/API-Tello-tellopy-Webots) - To Simulation like TelloPy library.
 
 ## Security
 
